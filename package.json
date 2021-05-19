@@ -1,0 +1,25 @@
+{
+  "name": "query-html",
+  "version": "1.0.0",
+  "description": "Query HTML with CSS Selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "query",
+    "html",
+    "select",
+    "css",
+    "parse"
+  ],
+  "author": "Richard van der Dys",
+  "license": "MIT",
+  "dependencies": {
+    "css-what": "^5.0.0",
+    "hyntax": "^1.1.9"
+  },
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
+}
